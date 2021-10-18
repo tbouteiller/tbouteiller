@@ -27,5 +27,5 @@
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=tbouteiller&langs_count=5&theme=tokyonight)]()
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tbouteiller&theme=tokyonight)](https://github.com/tbouteiller/github-readme-streak-stats)
 
-
-
+##### Contact Me
+![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)[https://www.google.ca]
