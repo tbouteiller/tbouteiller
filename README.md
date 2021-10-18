@@ -1,7 +1,6 @@
 ### Hi there, my name is Tanner! 👋
 ![](https://komarev.com/ghpvc/?username=tbouteiller&color=blueviolet&label=Views) [![GitHub followers](https://img.shields.io/github/followers/tbouteiller.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/tbouteiller?tab=followers)
 
-### Skills
 ***
 ##### Languages
 ![image](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
@@ -24,7 +23,6 @@
 ![image](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![image](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 
-### Statistics
 ***
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=tbouteiller&langs_count=5&theme=tokyonight)]()
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tbouteiller&theme=tokyonight)](https://github.com/tbouteiller/github-readme-streak-stats)
