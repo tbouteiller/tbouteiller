@@ -1,5 +1,5 @@
 ### Hi there, my name is Tanner! 👋
-![](https://komarev.com/ghpvc/?username=tbouteiller&color=blueviolet&label=Views) [![GitHub followers](https://img.shields.io/github/followers/Naereen.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/Naereen?tab=followers)
+![](https://komarev.com/ghpvc/?username=tbouteiller&color=blueviolet&label=Views) [![GitHub followers](https://img.shields.io/github/followers/tbouteiller.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/tbouteiller?tab=followers)
 
 
 <!--
