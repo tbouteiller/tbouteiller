@@ -1,6 +1,5 @@
 ### Hi there, my name is Tanner! 👋
 ![](https://komarev.com/ghpvc/?username=tbouteiller&color=blueviolet&label=Views) [![GitHub followers](https://img.shields.io/github/followers/tbouteiller.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/tbouteiller?tab=followers)
-<a href="mailto:tannerbouteiller@gmail.com?subject=Came%20from%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 
 Welcome to my GitHub! I am a current student at Red River College with my main interests being .NET Development and Full Stack Web Development.
 
@@ -29,4 +28,8 @@ Welcome to my GitHub! I am a current student at Red River College with my main i
 ***
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=tbouteiller&langs_count=5&theme=tokyonight)]()
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tbouteiller&theme=tokyonight)](https://github.com/tbouteiller/github-readme-streak-stats)
+
+##### Contact Me
+***
+<a href="mailto:tannerbouteiller@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 
