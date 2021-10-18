@@ -1,6 +1,8 @@
 ### Hi there, my name is Tanner! 👋
 ![](https://komarev.com/ghpvc/?username=tbouteiller&color=blueviolet&label=Views) [![GitHub followers](https://img.shields.io/github/followers/tbouteiller.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/tbouteiller?tab=followers)
 
+Welcome to my GitHub! I am a current student at Red River College with my main interests being .NET Development and Full Stack Web Development.
+
 ***
 ##### Languages
 ![image](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
