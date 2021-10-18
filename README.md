@@ -1,5 +1,5 @@
 ### Hi there, my name is Tanner! 👋
-![](https://komarev.com/ghpvc/?username=tbouteiller&color=blueviolet)
+![](https://komarev.com/ghpvc/?username=tbouteiller&color=blueviolet&label=Views)
 
 <!--
 **tbouteiller/tbouteiller** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
