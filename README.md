@@ -27,7 +27,6 @@ Welcome to my GitHub! I am a current student at Red River College Polytechnic wi
 ![image](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 
 ***
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=tbouteiller&langs_count=5&theme=tokyonight)]()\
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tbouteiller&theme=tokyonight)](https://github.com/tbouteiller/github-readme-streak-stats)
 
 ***
