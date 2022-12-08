@@ -29,8 +29,9 @@ Welcome to my GitHub! I am a current student at Red River College Polytechnic wi
 ![image](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ***
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=tbouteiller&langs_count=7&theme=tokyonight)]()\
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tbouteiller&theme=tokyonight)](https://github.com/tbouteiller/github-readme-streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tbouteiller&langs_count=8&theme=tokyonight)](https://github.com/tbouteiller/github-readme-stats)
+
+![Tanner GitHub stats](https://github-readme-stats.vercel.app/api?username=tbouteiller&show_icons=true&theme=tokyonight)
 
 ***
 ##### Contact Me
